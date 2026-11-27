@@ -1,0 +1,25 @@
+Designators,Value,Footprint,Qty/Board,LCSC Part #,JLC Type,JLC Stock,LCSC Stock,Unit @1bd (USD),Unit @5bd (USD),Unit @10bd (USD),Unit @50bd (USD),MPN,Datasheet
+C1,C 4.7nF,C_0603_1608Metric,1,,Missing,,,,,,,,
+"C2,C4",C 10uF,C_0603_1608Metric,2,,Missing,,,,,,,,
+"C3,C11,C12,C20",C 1uF,C_0603_1608Metric,4,,Missing,,,,,,,,
+"C5,C6,C7,C8,C10,C13,C14,C15,C19",C 100nF,C_0603_1608Metric,9,,Missing,,,,,,,,
+C9,C 4.7uF,C_0603_1608Metric,1,,Missing,,,,,,,,
+C16,C 47uF,C_1206_3216Metric,1,,Missing,,,,,,,,
+"C17,C18",C 100pF,C_0603_1608Metric,2,,Missing,,,,,,,,
+"D_error1,D_power1,D_status1",LED,LED_0603_1608Metric,3,,Missing,,,,,,,,
+F1,Polyfuse,Fuse_1206_3216Metric,1,,Missing,,,,,,,,
+"FB1,FB2",FerriteBead,L_0603_1608Metric,2,,Missing,,,,,,,,
+IC1,IQS9150-000QFR,IQS9150000QFR,1,,Missing,,,,,,,,https://www.azoteq.com/images/stories/pdf/iqs9150_datasheet.pdf
+IC2,STM32G431CBT6,QFP50P900X900X160-48N,1,,Missing,,,,,,,,https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+J1,USB_C_Receptacle_USB2.0_16P,USB_C_Receptacle_HRO_TYPE-C-31-M-12,1,,Missing,,,,,,,,https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+J2,Conn_01x05_Pin,PinHeader_1x05_P2.54mm_Vertical,1,,Missing,,,,,,,,
+"J4,J5",Conn_01x10_Pin,PinHeader_1x10_P1.00mm_Horizontal,2,,Missing,,,,,,,,
+"R1,R2",R 5.1k,R_0603_1608Metric,2,,Missing,,,,,,,,
+R3,R 1M,R_0603_1608Metric,1,,Missing,,,,,,,,
+"R4,R5",R 22,R_0603_1608Metric,2,,Missing,,,,,,,,
+"R6,R10",R 10k,R_0603_1608Metric,2,,Missing,,,,,,,,
+"R7,R8,R9",R 4.7k,R_0603_1608Metric,3,,Missing,,,,,,,,
+"R11,R13,R14",R 1k,R_0603_1608Metric,3,,Missing,,,,,,,,
+"SW1,SW2",SW_Push,SW_SPST_PTS810,2,,Missing,,,,,,,,
+U1,USBLC6-2SC6,SOT-23-6,1,,Missing,,,,,,,,https://www.st.com/resource/en/datasheet/usblc6-2.pdf
+U2,AP2112K-3.3,SOT-23-5,1,,Missing,,,,,,,,https://www.diodes.com/assets/Datasheets/AP2112.pdf

@@ -1,0 +1,81 @@
+{
+  "version": "main",
+  "version_id": "main",
+  "commit_sha": "6e7b5ec",
+  "copied_3d": [
+    [
+      "top",
+      "renders/pcb-3d-top.png"
+    ],
+    [
+      "bottom",
+      "renders/pcb-3d-bottom.png"
+    ],
+    [
+      "iso-top",
+      "renders/pcb-3d-iso-top.png"
+    ],
+    [
+      "iso-bottom",
+      "renders/pcb-3d-iso-bottom.png"
+    ]
+  ],
+  "copied_2d": [
+    [
+      "2D Top View",
+      "renders/pcb-2d-top.svg"
+    ],
+    [
+      "2D Bottom View",
+      "renders/pcb-2d-bottom.svg"
+    ]
+  ],
+  "copied_sch_svgs": [
+    [
+      "Board_alex",
+      "renders/sch-Board_alex.svg"
+    ]
+  ],
+  "dl_entries": [
+    [
+      "JLCPCB Full PCBA Bundle (ZIP)",
+      "files/muca-robin-main-jlcpcb-production.zip",
+      "55 KB"
+    ],
+    [
+      "JLCPCB Gerbers + Drills (ZIP)",
+      "files/muca-robin-main-jlcpcb-gerbers.zip",
+      "55 KB"
+    ],
+    [
+      "JLCPCB BOM (CSV)",
+      "files/muca-robin-main-jlcpcb-bom.csv",
+      "1 KB"
+    ],
+    [
+      "JLCPCB Pick & Place CPL (CSV)",
+      "files/muca-robin-main-jlcpcb-cpl.csv",
+      "1 KB"
+    ],
+    [
+      "Priced BOM Snapshot (CSV)",
+      "files/muca-robin-main-bom-priced.csv",
+      "1 KB"
+    ],
+    [
+      "Schematic PDF",
+      "files/muca-robin-main-schematic.pdf",
+      "202 KB"
+    ],
+    [
+      "3D Mechanical Model (STEP)",
+      "files/muca-robin-main-3d.step",
+      "1,576 KB"
+    ],
+    [
+      "PCB Renders Pack (ZIP)",
+      "files/muca-robin-main-renders.zip",
+      "1,121 KB"
+    ]
+  ]
+}
